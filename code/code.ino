@@ -122,7 +122,7 @@ void loop(){
         softLeft();
     }
     if(ir[0]==0 && ir[1]==0 && ir[2]==0 && ir[3]==1 && ir[4]==0){
-        softLeft();
+        softRight();
     }
 };
 
